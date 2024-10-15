@@ -1,0 +1,5 @@
+package com.acmors.festa.repository;
+
+public class ConvidadosRepository {
+
+}

@@ -224,3 +224,9 @@ END
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-15 20:18:13.338
 !MESSAGE Started org.springframework.tooling.boot.ls LS process 10916
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-10-15 20:26:49.477
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/PyvesB/eclipse-planet-themes/updatesite/content.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-10-15 20:26:49.747
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/PyvesB/eclipse-planet-themes/updatesite/content.jar
