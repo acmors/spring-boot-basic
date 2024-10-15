@@ -1,0 +1,5 @@
+package com.acmors.festa.controller;
+
+public class ConvidadosController {
+
+}

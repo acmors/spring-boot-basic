@@ -1,0 +1,8 @@
+package com.acmors.festa.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class ConvidadosController {
+	 
+}
